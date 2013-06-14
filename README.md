@@ -1,5 +1,5 @@
-RegawMOD Bootloader Customizer Plugin Template
-==============================================
+Bootloader Customizer Plugin Template
+=====================================
 
 The template for an implementation of a plugin for the [RegawMOD Bootloader Customizer](https://github.com/regaw-leinad/RegawMOD-Bootloader-Customizer).
 
